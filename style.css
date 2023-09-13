@@ -87,3 +87,24 @@ label {
   background: #18a3dd;
   margin-right: 2px;
 }
+
+@media screen and (max-width: 768px) {
+  #active {
+margin: 100px auto 0;
+}
+.joke {
+  margin-left: 80px;
+  width: 100px;
+}
+.image article {
+  width: 20%;
+  float: left;
+  height: 20%;
+}
+img {
+  display: block;
+  width: 80%;
+  height: 500px;
+  margin: 0 auto;
+}
+}
