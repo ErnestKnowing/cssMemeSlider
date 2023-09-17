@@ -88,9 +88,9 @@ label {
   margin-right: 2px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   #active {
-margin: 100px auto 0;
+margin: 20px auto 0;
 }
 .joke {
   margin-left: 80px;
